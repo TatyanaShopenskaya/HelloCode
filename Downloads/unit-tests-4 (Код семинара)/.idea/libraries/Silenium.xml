@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Silenium">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/Silenium" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/Silenium" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/Silenium" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/Silenium" recursive="false" type="SOURCES" />
+  </library>
+</component>
