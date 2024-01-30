@@ -1,0 +1,5 @@
+
+h
+8Test/seminars/ControleWork6/CompareAverageListsTest.java,0\a\0a266ea04c28951acc196f34eca87d9e688708e6
+c
+3src/seminars/ControleWork6/CompareAverageLists.java,2\c\2c94a4dfcb2d3b0091c7014a50d8ec7204b4296b
